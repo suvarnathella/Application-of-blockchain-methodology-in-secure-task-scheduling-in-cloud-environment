@@ -20,11 +20,7 @@ This project is about using blockchain technology to securely manage and schedul
 - Python  
 - Blockchain Concepts  
 - Cloud Computing Basics  
-
-## 📂 Project Structure
-- `src/` → Code files  
-- `data/` → Input data  
-- `results/` → Output  
+  
 
 ## ▶️ How to Run
 ```bash
