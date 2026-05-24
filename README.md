@@ -24,6 +24,6 @@ This project is about using blockchain technology to securely manage and schedul
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/suvarnathella/blockchain-task-scheduling.git
+git clone https://github.com/suvarnathella/Application-of-blockchain-methodology-in-secure-task-scheduling-in-cloud-environment.git
 cd blockchain-task-scheduling
 python main.py
